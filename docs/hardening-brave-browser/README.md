@@ -8,14 +8,14 @@ In this video we will harden Brave, add some extensions, configure some flags & 
 
 ---
 ## Articles / Relevant Links
-Get Brave: https://brave.com
-Previous Video: https://polarhive.ml/videos/notes/foss-browsers-for-privacy-desktop/
+- Get Brave: https://brave.com
+- Previous Video: https://polarhive.ml/videos/notes/foss-browsers-for-privacy-desktop/
 
 ## BRAVE://FLAGS
-[brave://flags/#isolate-origins](brave://flags/#isolate-origins)
-[brave://flags/#cross-origin-isolated](brave://flags/#cross-origin-isolated)
-[brave://flags/#strict-origin-isolation](brave://flags/#strict-origin-isolation)
-[brave://flags/#freeze-user-agent](brave://flags/#freeze-user-agent)
+- [brave://flags/#isolate-origins](brave://flags/#isolate-origins)
+- [brave://flags/#cross-origin-isolated](brave://flags/#cross-origin-isolated)
+- [brave://flags/#strict-origin-isolation](brave://flags/#strict-origin-isolation)
+- [brave://flags/#freeze-user-agent](brave://flags/#freeze-user-agent)
 
 ---
 ## Attribution
