@@ -7,6 +7,8 @@ Tor browser is the only real browser for 'Privacy'. It ships with strong anti-fi
 
 ---
 ## Articles / Relevant Links
+Related Video: https://polarhive.ml/videos/notes/hardening-brave-browser/
+
 - Brave Crypto Scandal
 https://www.theverge.com/2020/6/8/21283769/brave-browser-affiliate-links-crypto-privacy-ceo-apology
 

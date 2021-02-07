@@ -34,7 +34,7 @@ Try it out on Android and preferably upload from my region (India) They might be
 https://wabetainfo.com/reports-say-that-whatsapp-is-banning-groups-having-a-suspicious-name/ 
 
 ## WhatsApp FAQ page
-
+https://web.archive.org/web/20210203174838if_/https://faq.whatsapp.com/general/security-and-privacy/what-does-this-group-has-ended-mean/
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
