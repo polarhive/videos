@@ -1,6 +1,7 @@
 # F-Droid - An App Store That Respects Your Privacy & Freedom 
-F-Droid showcases a catalogue of Free and Open Source Apps (FOSS). It allows you to add custom repositories, share apps offline to nearby users locally.
-Every app in the native F-Droid repository audited by volunteers to check for anti-features, spyware and proprietary blobs. The distributed apps are a 100% reproduceable and allows the user to verify than blindly trusting.
+F-Droid is an App Store for Android which showcases a catalog of Free and Open Source Apps (FOSS). It serves as a freedom respecting alternative to Google Play.
+
+It allows you to add custom repositories, share apps offline to nearby users locally and auto downloads updates over WiFi. Every app in the native F-Droid repository is audited by volunteers to check for anti-features, spyware and proprietary blobs. The distributed apps are 100% reproducible and enables the user to verify apps than blindly trusting.
 
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/f-droid-an-appstore-that-respects-your-privacy-and-freedom:2)
