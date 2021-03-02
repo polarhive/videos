@@ -5,7 +5,7 @@ It allows you to add custom repositories, share apps offline to nearby users loc
 
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/f-droid-an-appstore-that-respects-your-privacy-and-freedom:2)
-- [PeerTube](https://peertube.social/videos/watch/9a38e9fd-2697-4995-b7bd-5fb2cba427e7)
+- [PeerTube](https://tilvids.com/videos/watch/323e48f2-c452-4323-abc6-e84785681707)
 
 ---
 ## Articles / Relevant Links
