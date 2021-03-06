@@ -5,14 +5,15 @@ It allows you to add custom repositories, share apps offline to nearby users loc
 
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/f-droid-an-appstore-that-respects-your-privacy-and-freedom:2)
-- [PeerTube](https://tilvids.com/videos/watch/323e48f2-c452-4323-abc6-e84785681707)
+- [tilvids.com](https://tilvids.com/videos/watch/323e48f2-c452-4323-abc6-e84785681707)
+- [peertube.social](https://peertube.social/videos/watch/9a38e9fd-2697-4995-b7bd-5fb2cba427e7)
 
 ---
 ## Articles / Relevant Links
-- https://f-droid.org
-- https://www.theverge.com/2018/5/31/17412396/telegram-apple-app-store-app-updates-russia 
-- https://nitter.net/element_hq/status/1355290296947499013
-- https://www.theverge.com/2020/9/28/21472139/google-android-12-app-store-installation-payment-fees
+- https://f-droid.org/
+- https://www.theverge.com/2018/5/31/17412396/telegram-apple-app-store-app-updates-russia/ 
+- https://nitter.net/element_hq/status/1355290296947499013/
+- https://www.theverge.com/2020/9/28/21472139/google-android-12-app-store-installation-payment-fees/
 - https://newpipe.net/FAQ/tutorials/install-add-fdroid-repo/
 
 ---

@@ -8,7 +8,8 @@ If this is open source and you can disable ads with uBlock Origin then this feel
 
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/brave-is-launching-an-independent-alternative-to-google-search:9)
-- [PeerTube](https://tilvids.com/videos/watch/6fb7f9e4-a3df-4164-8755-8962abbccf78)
+- [tilvids.com](https://tilvids.com/videos/watch/6fb7f9e4-a3df-4164-8755-8962abbccf78)
+- [peertube.social](https://peertube.social/videos/watch/96ac35cd-6de1-482c-975a-466c55c145e0)
 
 ---
 ## Articles / Relevant Links
@@ -17,6 +18,9 @@ If this is open source and you can disable ads with uBlock Origin then this feel
 - https://cointelegraph.com/news/brave-acquires-search-engine-in-bid-to-offer-alternative-to-google-search
 - https://tailcat.com/
 - Goggles https://brave.com/wp-content/uploads/2021/03/goggles.pdf
+- DuckDuckGo sources : https://help.duckduckgo.com/results/sources/?redir=1
+- DuckDuckGo affiliate codes : https://help.duckduckgo.com/duckduckgo-help-pages/company/advertising-and-affiliates/ 
+
 
 ### RELATED VIDEOS
 - https://polarhive.ml/videos/notes/foss-browsers-for-privacy-desktop/

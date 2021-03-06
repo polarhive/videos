@@ -2,13 +2,12 @@
 The Android client is censoring videos. Should WhatsApp have a say in what media I share with my friends? Is WhatsApp really end to end encrypted? Why does it scan this in the first place?
 #deletefacebook #deletewhatsapp
 
-# Watch on
-- [LBRY / Odysee](https://odysee.com/@polarhive:e/WhatsApp-Facebook-is-Censoring-your-Photos-Videos-Status-and-DMs:6)
-- [PeerTube](https://peertube.social/videos/watch/f4b90acd-cd1b-48e6-a4fe-31b2659ee690)
-
 Try it out on Android and preferably upload from my region (India) They might be A/B beta testing too. I tried it with my friends (Android/India) and they get the same errors.
 
-# [link to censored video meme](https://codeberg.org/polarhive/videos/raw/branch/main/docs/whatsapp-censor/WhatsAppCensored.zip)
+# Watch on
+- [LBRY / Odysee](https://odysee.com/@polarhive:e/WhatsApp-Facebook-is-Censoring-your-Photos-Videos-Status-and-DMs:6)
+- [tilvids.com](https://tilvids.com/videos/watch/97d61e87-57ac-4c5c-9e6d-708d0309f993) 
+- [peertube.social](https://peertube.social/videos/watch/f4b90acd-cd1b-48e6-a4fe-31b2659ee690)
 
 ---
 ## Attribution
@@ -19,6 +18,8 @@ Try it out on Android and preferably upload from my region (India) They might be
 - https://t.me/techloregroup/372712
 - https://t.me/techloregroup/372753
 - https://t.me/techloregroup/372800
+
+# [link to censored video meme](https://codeberg.org/polarhive/videos/raw/branch/main/docs/whatsapp-censor/WhatsAppCensored.zip)
 
 ### Screenshots
 ![SS1](https://codeberg.org/polarhive/videos/raw/branch/main/docs/whatsapp-censor/techlore_tg_group/1.webp)
