@@ -13,6 +13,7 @@ LibreWolf is a fork of Firefox - focused on privacy, security and freedom. Featu
 ## Articles / Relevant Links
 - https://librewolf-community.gitlab.io/
 - https://librewolf-community.gitlab.io/docs/
+- https://gitlab.com/librewolf-community/settings/-/blob/master/librewolf.cfg
 
 #### If web audio / video calls don't work due to hardening.
 - https://gitlab.com/librewolf-community/browser/macos/-/issues/8#note_397645134
@@ -24,6 +25,18 @@ LibreWolf is a fork of Firefox - focused on privacy, security and freedom. Featu
 - https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/
 - https://addons.mozilla.org/en-US/firefox/addon/clearurls/
 
+#### about:config tweaks
+- Set `network.http.referer.defaultPolicy` to 0
+- Set `dom.security.https_only_mode.upgrade_local` to true
+- Set `general.smoothScroll.msdPhysics.enabled` to true
+- Set `ui.systemUsesDarkTheme` to 1
+
+#### TESTING WEBSITES
+- https://www.deviceinfo.me/
+- https://coveryourtracks.eff.org/
+- https://amiunique.org/fp
+- https://alanhogan.github.io/web-experiments/3rd/third-party-cookies.html
+- [more](https://librewolf-community.gitlab.io/docs/testing/)
 ---
 ## Attribution
 - Track Title: Say Yeah 
