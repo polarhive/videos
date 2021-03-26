@@ -5,7 +5,7 @@ Tor browser is the only real browser for 'Privacy'. It ships with strong anti-fi
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/foss-browsers-for-privacy-desktop:0)
 - [tilvids.com](https://tilvids.com/videos/watch/38bb8f48-5e62-4df4-96a4-22cd57a9cac0)
 - [peertube.social](https://peertube.social/videos/watch/75475bae-401d-4981-8754-db400fe051c6)
-- 
+ 
 ---
 ## Articles / Relevant Links
 Related Video: https://polarhive.ml/videos/notes/hardening-brave-browser/
@@ -52,7 +52,7 @@ https://odysee.com/@Lunduke:e/mozilla-is-not-trustworthy:a
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/) 
+For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic) 
 
 ---
 > Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: https://polarhive.ml/help

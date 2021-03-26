@@ -6,7 +6,7 @@ In this video we will harden Brave, add some extensions, configure some flags & 
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/hardening-brave-browser:7)
 - [tilvids.com](https://tilvids.com/videos/watch/8a267137-06dd-426c-ac8c-50840709bce9)
 - [peertube.social](https://peertube.social/videos/watch/f3195598-99cb-4319-a06a-d94c3502a57e)
-- 
+ 
 ---
 ## Articles / Relevant Links
 - Get Brave: https://brave.com
@@ -27,7 +27,7 @@ In this video we will harden Brave, add some extensions, configure some flags & 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/) 
+For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic) 
 
 ---
 > Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: https://polarhive.ml/help
