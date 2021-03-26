@@ -37,16 +37,16 @@ LibreWolf is a fork of Firefox - focused on privacy, security and freedom. Featu
 - https://amiunique.org/fp
 - https://alanhogan.github.io/web-experiments/3rd/third-party-cookies.html
 - [more](https://librewolf-community.gitlab.io/docs/testing/)
+
 ---
 ## Attribution
 - Track Title: Say Yeah 
 - Music by Topher Mohr and Alex Elena
-- Music Link: https://invidiou.site/watch?v=-wiUIs9I9EM
+- Music Link: https://redirect.invidious.io/watch?v=-wiUIs9I9EM
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
-For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/) 
+For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic) 
 
 ---
 > Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: https://polarhive.ml/help
