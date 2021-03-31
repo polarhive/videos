@@ -14,10 +14,10 @@ https://polarhive.ml/help
 - [I also upload on YouTube but don't want to bring people into centralized silos](https://polarhive.ml/blog/fedi-first)
 
 ## Why not write it in the description box itself?
-1. I want to bring people away from YouTube and into privacy friendly, decentralized alternatives like Fedi and LBRY and eventually self host without losing any of my followers. Both protocols allow for decentralized hosting your own terms.
-2. It's easier to manage it in one place like this repo than updating one at a time.
+1. I want to bring people away from YouTube and into privacy friendly, decentralized alternatives like the fediverse, LBRY and eventually self host my own PeerTube. Both protocols allow for decentralized hosting.
+2. It's easier to manage it in one place like this repo than updating one video at a time.
 3. YouTube tracks outbound links in the desciption.
-4. Helps me learn Git :P
+4. Helps me learn Git
 
 ---
 ## #FediFirst - Upload on Fedi/LBRY a week before you post to YouTube
