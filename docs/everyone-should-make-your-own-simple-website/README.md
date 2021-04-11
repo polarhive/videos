@@ -24,6 +24,8 @@ https://codeberg.org/polarhive/simplewebsite/
 - https://polarhive.ml/
 
 ## Featured websties
+- https://ozaki-yutaka.codeberg.page/
+- https://mogli.codeberg.page/
 - < your website here 👀 >
 
 ---
