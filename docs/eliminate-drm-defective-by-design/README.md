@@ -2,7 +2,7 @@
 DRM - Digital Restrictions Management is a nasty way to get spied on and is a failure by design. Censoring Digital files is like trying to make water not wet. Spotify, Netflix, Amazon, Hulu, Steam, Apple, Google all bundle DRM and harm user freedom. Stop the injustice of DRM - slowly switch to ethical ways to consume media, try one of the alternatives listed below ->
 
 # Watch on
-- [LBRY / Odysee](https://odysee.com/@polarhive:e/eliminate-drm-defective-by-design:3/)
+- [LBRY / Odysee](https://odysee.com/@polarhive:e/eliminate-drm-defective-by-design:3)
 - [tilvids.com](https://tilvids.com/videos/watch/230e2d50-9ce7-488f-811f-5147f713bd9b/)
 - [peertube.social](https://peertube.social/videos/watch/0e8d35bb-b3c0-4a9f-b359-5cd43a4eb179)
 
@@ -25,6 +25,9 @@ DRM - Digital Restrictions Management is a nasty way to get spied on and is a fa
 - https://www.theguardian.com/technology/blog/2014/feb/05/digital-rights-management/
 - https://polarhive.ml/blog/apple/
 - https://en.wikipedia.org/wiki/Always-on_DRM
+- https://redirect.invidious.io/watch?v=Ez3f1HgOa1o 
+- https://redirect.invidious.io/watch?v=FY7DtKMBxBw
+
 ---
 ## Attribution
 - Track Title: Machina
