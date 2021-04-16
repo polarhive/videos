@@ -35,6 +35,8 @@ DRM - Digital Restrictions Management is a nasty way to get spied on and is a fa
 - https://commons.wikimedia.org/wiki/File:BBC_Eliminate_DRM.jpg -
 Mattl at English Wikipedia, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
 
+- https://commons.wikimedia.org/wiki/File:DRM_protest_Boston_DefectiveByDesign.jpg - Karen Rustad from Claremont, CA, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons
+
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
