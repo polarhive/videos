@@ -1,4 +1,3 @@
-
 # Brave Search | Brave is launching an Independent, Private alternative to Google Search
 This week Brave announced that they're developing their own independent search engine to compete with Google in the saturated search engine market. Most search engines piggyback on larger big tech search engines like Bing (Microsoft) and Yahoo for results - indexing the web is a mammoth task.
 
