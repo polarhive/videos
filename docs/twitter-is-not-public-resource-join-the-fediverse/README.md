@@ -9,6 +9,7 @@ Here are some great curated sites that I recommend!
 - https://pixelfed.org/
 - https://fediverse.party/
 - https://join-lemmy.org/
+- https://funkwhale.audio/
 
 Find me on fedi -> https://polarhive.ml/contact/
 
