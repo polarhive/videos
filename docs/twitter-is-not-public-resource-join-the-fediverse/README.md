@@ -35,6 +35,7 @@ Find me on fedi -> https://polarhive.ml/contact/
 - https://blog.joinmastodon.org/2017/03/learning-from-twitters-mistakes/
 - https://blog.joinmastodon.org/2017/03/learning-from-twitters-mistakes/
 - https://polarhive.ml/blog/fedi-first/
+- https://www.theverge.com/2021/7/8/22568433/twitter-india-legal-immunity-user-posts-regulations
 
 > Videos
 - https://peertube.social/videos/watch/d9bd2ee9-b7a4-44e3-8d65-61badd15c6e6
