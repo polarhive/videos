@@ -10,7 +10,6 @@ https://polarhive.ml/help
 ## Where do you upload your videos?
 - [LBRY / Odysee](https://polarhive.ml/odysee) 
 - [PeerTube [tilvids.com] (ActivityPub)](https://polarhive.ml/peertube)
-- [PeerTube [peertube.social] (ActivityPub)](https://peertube.social/accounts/nathan/video-channels)
 - [I also upload on YouTube but don't want to bring people into centralized silos](https://polarhive.ml/blog/fedi-first)
 
 ## Why not write it in the description box itself?
