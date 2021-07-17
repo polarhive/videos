@@ -13,13 +13,12 @@ Patreon, Liberapay, Crypto, Donations & all the other ways you can [help](https:
 - [LBRY / Odysee](https://polarhive.ml/odysee) 
 - [PeerTube [tilvids.com] (ActivityPub)](https://polarhive.ml/peertube)
 - [I also upload on YouTube but don't want to bring people into centralized silos](https://polarhive.ml/blog/fedi-first)
-#FediFirst - I always upload to the fediverse & LBRY a week before I post to YouTube.
 
 ---
 ## Why not write it in the description box itself?
 1. I want to bring people away from YouTube - into privacy friendly, decentralized alternatives like the fediverse, LBRY and eventually self host my own PeerTube. Both protocols allow for decentralized hosting.
 2. It's easier to manage it in one place like this repo than updating one video at a time.
-3. YouTube tracks outbound links in the desciption.
+3. YouTube tracks outbound links in the description.
 4. Helps me learn Git.
 
 ---
