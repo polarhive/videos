@@ -4,7 +4,6 @@ description goes here
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/)
 - [tilvids.com](https://tilvids.com/videos/watch/)
-- [peertube.social](https://peertube.social/videos/watch/)
 
 ---
 ## Attribution (if material used)

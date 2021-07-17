@@ -5,7 +5,6 @@ Add it via their F-Droid repository or get it from their website.
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/newpipe-youtube-peertube-adfree-foss-app:5)
 - [tilvids.com](https://tilvids.com/videos/watch/6674d7da-33e5-4400-a764-1cfbf709a6ff)
-- [peertube.social](https://peertube.social/videos/watch/e38052ab-1525-431c-80a0-6c5f4c7d12c2)
 
 ### RELATED VIDEO
 - https://polarhive.ml/videos/notes/f-droid-an-appstore-that-respects-your-privacy-and-freedom

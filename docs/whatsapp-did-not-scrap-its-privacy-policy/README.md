@@ -12,7 +12,6 @@ If you use these apps, you indirectly have a Facebook account. Your data is stor
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/whatsapp-did-not-scrap-its-privacy-policy:a/)
 - [tilvids.com](https://tilvids.com/videos/watch/f5714c76-5bfe-477c-9490-058dd31f2dba/)
-- [peertube.social](https://peertube.social/videos/watch/44f95684-7b49-4bc2-8b3d-fef21179b634/)
 
 # Alternatives
 - https://telegram.org/

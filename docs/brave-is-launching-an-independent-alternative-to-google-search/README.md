@@ -8,7 +8,6 @@ If this is open source and you can disable ads with uBlock Origin then this feel
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/brave-is-launching-an-independent-alternative-to-google-search:9)
 - [tilvids.com](https://tilvids.com/videos/watch/6fb7f9e4-a3df-4164-8755-8962abbccf78)
-- [peertube.social](https://peertube.social/videos/watch/96ac35cd-6de1-482c-975a-466c55c145e0)
 
 ---
 ## Articles / Relevant Links

@@ -16,7 +16,6 @@ Find me on fedi -> https://polarhive.ml/contact/
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/twitter-is-not-public-resource-join-the-fediverse:8)
 - [tilvids.com](https://tilvids.com/videos/watch/95c5b274-dddd-4918-852e-247abfe42e02)
-- [peertube.social](https://peertube.social/videos/watch/e9808654-8dce-4a6f-aa66-941add007af9)
 
 ---
 ## Articles / Relevant Links
@@ -38,8 +37,8 @@ Find me on fedi -> https://polarhive.ml/contact/
 - https://www.theverge.com/2021/7/8/22568433/twitter-india-legal-immunity-user-posts-regulations
 
 > Videos
-- https://peertube.social/videos/watch/d9bd2ee9-b7a4-44e3-8d65-61badd15c6e6
-- https://peertube.social/videos/watch/7a087e5f-68e0-4359-8035-bfd9752e9b2e
+- https://odysee.com/@SimplyExplained:4e/distributed-social-media-mastodon:e
+- https://peertube.togart.de/videos/watch/7a087e5f-68e0-4359-8035-bfd9752e9b2e
 - https://framatube.org/videos/watch/9c9de5e8-0a1e-484a-b099-e80766180a6d
 
 ---

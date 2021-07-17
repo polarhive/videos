@@ -4,7 +4,6 @@ LibreWolf is a fork of Firefox - focused on privacy, security and freedom. Featu
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/librewolf-firefox-tweaked-for-privacy)
 - [tilvids.com](https://tilvids.com/videos/watch/f25ad0e3-31e1-4867-a540-49ce97221763)
-- [peertube.social](https://peertube.social/videos/watch/ae5ce90c-547c-444d-917e-52518ba539ff)
 
 ### RELATED VIDEO
 - https://polarhive.ml/videos/notes/foss-browsers-for-privacy-desktop

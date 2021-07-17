@@ -7,7 +7,6 @@ Try it out on Android and preferably upload from my region (India) They might be
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/WhatsApp-Facebook-is-Censoring-your-Photos-Videos-Status-and-DMs:6)
 - [tilvids.com](https://tilvids.com/videos/watch/97d61e87-57ac-4c5c-9e6d-708d0309f993) 
-- [peertube.social](https://peertube.social/videos/watch/f4b90acd-cd1b-48e6-a4fe-31b2659ee690)
 
 ---
 ## Attribution

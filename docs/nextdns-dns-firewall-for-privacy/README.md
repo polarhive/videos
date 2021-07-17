@@ -6,7 +6,6 @@ They have a short and simple privacy policy. Works with Android, iOS, routers an
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/nextdns-dns-firewall-for-privacy:7/)
 - [tilvids.com](https://tilvids.com/videos/watch/1825584e-6b03-4484-8717-279aa13c287f/)
-- [peertube.social](https://peertube.social/videos/watch/7cfc4929-e440-4352-affb-5ed1dcb24313/)
 
 # How to set it up?
 Follow the instructions at https://my.nextdns.io/

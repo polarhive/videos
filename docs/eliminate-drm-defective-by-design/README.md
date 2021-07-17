@@ -4,7 +4,6 @@ DRM - Digital Restrictions Management is a nasty way to get spied on and is a fa
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/eliminate-drm-defective-by-design:3)
 - [tilvids.com](https://tilvids.com/videos/watch/230e2d50-9ce7-488f-811f-5147f713bd9b/)
-- [peertube.social](https://peertube.social/videos/watch/0e8d35bb-b3c0-4a9f-b359-5cd43a4eb179)
 
 # Alternatives
 - https://bandcamp.com/fair_trade_music_policy

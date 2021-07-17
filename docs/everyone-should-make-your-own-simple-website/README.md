@@ -8,7 +8,6 @@ This video isn't meant to 'spoon-feed' you. You are in control of your website, 
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/everyone-should-make-your-own-simple-website:e)
 - [tilvids.com](https://tilvids.com/videos/watch/e9567603-9395-447d-8050-4f0be77d5b6c)
-- [peertube.social](https://peertube.social/videos/watch/93cc621b-5e22-4bbc-bdfd-14b8b046265a)
 
 # What do I fork?
 https://codeberg.org/polarhive/simplewebsite/

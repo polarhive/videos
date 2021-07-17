@@ -5,7 +5,6 @@ In this video we will harden Brave, add some extensions, configure some flags & 
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/hardening-brave-browser:7)
 - [tilvids.com](https://tilvids.com/videos/watch/8a267137-06dd-426c-ac8c-50840709bce9)
-- [peertube.social](https://peertube.social/videos/watch/f3195598-99cb-4319-a06a-d94c3502a57e)
  
 ---
 ## Articles / Relevant Links
