@@ -1,4 +1,4 @@
-# Descriptions & attributions for my videos
+# Descriptions & attribution for my videos
 I'm [Nathan](https://polarhive.ml). I make videos and talk about tech, privacy, tutorials on [libre software](https://polarhive.ml/blog/free-libre-software/) on this channel.
 
 This channel is a portal/hub of all the videos I film & edit. I had 14k views on YouTube, now all those videos are archived, after deleting my main Google account. I'm starting fresh on decentralized platforms like [Odysee](https://polarhive.ml/odysee) and [PeerTube](https://polarhive.ml/peertube). 
@@ -23,4 +23,4 @@ Patreon, Liberapay, Crypto, Donations & all the other ways you can [help](https:
 
 ---
 ## Attribution for generic files used in my videos?
-Intro/Outro music and [art](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/README.md)
+Intro/Outro [artwork, music &s media](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/README.md)
