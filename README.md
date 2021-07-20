@@ -23,4 +23,4 @@ Patreon, Liberapay, Crypto, Donations & all the other ways you can [help](https:
 
 ---
 ## Attribution for generic files used in my videos?
-Intro/Outro [artwork, music &s media](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/README.md)
+Intro/Outro [artwork, music & media](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/README.md)
