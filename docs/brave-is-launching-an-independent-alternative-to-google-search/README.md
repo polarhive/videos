@@ -1,4 +1,5 @@
 # Brave Search | Brave is launching an Independent, Private alternative to Google Search
+
 This week Brave announced that they're developing their own independent search engine to compete with Google in the saturated search engine market. Most search engines piggyback on larger big tech search engines like Bing (Microsoft) and Yahoo for results - indexing the web is a mammoth task.
 
 This would mean the 25 million monthly active Brave users would be introduced to a seamless native - Google level UX for the Brave ecosystem. They're also implementing some unique features under the code name 'Goggles' to let you experiment different perspectives for search results.
@@ -11,6 +12,7 @@ If this is open source and you can disable ads with uBlock Origin then this feel
 
 ---
 ## Articles / Relevant Links
+
 - Brave Search: https://brave.com/search
 - Blog Post : https://brave.com/brave-search/
 - https://cointelegraph.com/news/brave-acquires-search-engine-in-bid-to-offer-alternative-to-google-search
@@ -21,11 +23,13 @@ If this is open source and you can disable ads with uBlock Origin then this feel
 
 
 ### RELATED VIDEOS
+
 - https://polarhive.ml/videos/notes/foss-browsers-for-privacy-desktop/
 - https://polarhive.ml/videos/notes/hardening-brave-browser/
 
 ---
 ## Attribution
+
 - Track Title: Say Yeah 
 - Music by Topher Mohr and Alex Elena
 - Music Link: https://redirect.invidious.io/watch?v=-wiUIs9I9EM

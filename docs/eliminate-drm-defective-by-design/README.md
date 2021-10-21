@@ -1,11 +1,14 @@
-# Eliminate DRM - Defective By Design 
+# Eliminate DRM - Defective By Design
+
 DRM - Digital Restrictions Management is a nasty way to get spied on and is a failure by design. Censoring Digital files is like trying to make water not wet. Spotify, Netflix, Amazon, Hulu, Steam, Apple, Google all bundle DRM and harm user freedom. Stop the injustice of DRM - slowly switch to ethical ways to consume media, try one of the alternatives listed below ->
 
 # Watch on
+
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/eliminate-drm-defective-by-design:3)
 - [tilvids.com](https://tilvids.com/videos/watch/230e2d50-9ce7-488f-811f-5147f713bd9b/)
 
 # Alternatives
+
 - https://bandcamp.com/fair_trade_music_policy
 - https://www.gog.com/
 - http://itch.io/
@@ -14,6 +17,7 @@ DRM - Digital Restrictions Management is a nasty way to get spied on and is a fa
 - [LBRY/Odysee](https://polarhive.ml/odysee)
 
 ## Articles / Relevant Links
+
 - https://www.defectivebydesign.org/
 - https://io9.gizmodo.com/amazon-secretly-removes-1984-from-the-kindle-5317703/
 - https://www.defectivebydesign.org/faq/
@@ -29,6 +33,7 @@ DRM - Digital Restrictions Management is a nasty way to get spied on and is a fa
 
 ---
 ## Attribution
+
 - Track Title: Machina
 - Music by [Scott Buckley](https://www.scottbuckley.com.au/)
 - Music Link: https://www.scottbuckley.com.au/library/machina/
@@ -36,7 +41,6 @@ DRM - Digital Restrictions Management is a nasty way to get spied on and is a fa
 ---
 - https://commons.wikimedia.org/wiki/File:BBC_Eliminate_DRM.jpg -
 Mattl at English Wikipedia, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons
-
 - https://commons.wikimedia.org/wiki/File:DRM_protest_Boston_DefectiveByDesign.jpg - Karen Rustad from Claremont, CA, USA, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons
 
 ---

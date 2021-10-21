@@ -22,7 +22,7 @@ Patreon, Liberapay, Crypto, Donations & all the other ways you can [help](https:
 1. I want to bring people away from YouTube - into privacy friendly, decentralized alternatives like the fediverse, LBRY and eventually self host my own PeerTube. Both protocols allow for decentralized hosting.
 2. It's easier to manage it in one place like this repo than updating one video at a time on every single platform.
 3. YouTube tracks outbound links in the description.
-4. Helps me learn Git.
+4. Helps me learn Git!
 
 ---
 ## Attribution for generic files used in my videos?

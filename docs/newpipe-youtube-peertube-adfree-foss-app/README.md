@@ -1,5 +1,6 @@
 # NewPipe App for YouTube & PeerTube |  Ad-free and FOSS
-NewPipe is a powerful client for YouTube. Play videos ad free and reduce the trackers, analytics and data Google can mine off of your device. You can download my videos, (be sure to check its respective license here: https://polarhive.ml/videos/notes). It also works with PeerTube & SoundCloud. It is licensed under the GPL 3.0 (#freesoftware) and is lightweight. 
+
+NewPipe is a powerful client for YouTube. Play videos ad free and reduce the trackers, analytics and data Google can mine off of your device. You can download my videos, (be sure to check its respective license here: https://polarhive.ml/videos/notes). It also works with PeerTube & SoundCloud. It is licensed under the GPL 3.0 (#libresoftware) and is lightweight. 
 
 Add it via their F-Droid repository or get it from their website.
 # Watch on

@@ -1,4 +1,4 @@
-# Common Attributuion and Sources
+# Common Attribution and Sources
 
 ## Intro / Outro music
 
@@ -26,4 +26,4 @@
 ---
 # Videos
 
-Unless otherwised mentioned - all videos are licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Unless otherwise mentioned - all videos are licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)

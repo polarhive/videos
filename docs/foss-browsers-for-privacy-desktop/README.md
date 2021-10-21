@@ -1,11 +1,14 @@
 ## FOSS Browsers for Privacy
-Tor browser is the only real browser for 'Privacy'. It ships with strong anti-fingerprinting mitigations by default and masks your IP address. In addition to that - I showcase ungoogled-Chromium, Firefox & Brave. I also explain why you shouldn't use proprietary browsers like Edge, Safari & Google Chrome.
+
+'Tor Browser' is the only real browser for 'Privacy'. It ships with strong anti-fingerprinting mitigations by default and masks your IP address. In addition to that - I showcase ungoogled-Chromium, Firefox & Brave. I also explain why you shouldn't use proprietary browsers like Edge, Safari & Google Chrome.
 
 # Watch on
+
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/foss-browsers-for-privacy-desktop:0)
 - [tilvids.com](https://tilvids.com/videos/watch/38bb8f48-5e62-4df4-96a4-22cd57a9cac0)
  
 ---
+
 ## Articles / Relevant Links
 Related Video: https://polarhive.ml/videos/notes/hardening-brave-browser/
 
@@ -18,7 +21,7 @@ https://madaidans-insecurities.github.io/firefox-chromium.html
 - Mozilla political
 https://blog.mozilla.org/blog/2021/01/08/we-need-more-than-deplatforming/
 
-- Ungoogled-Chromium GitHub
+- ungoogled-chromium GitHub
 https://github.com/Eloston/ungoogled-chromium
 
 - Google Chrome proprietary
@@ -36,7 +39,7 @@ https://www.torproject.org/download/
 - Tor Project FAQ
 https://support.torproject.org/faq/
 
-- My Article on Fireofox/Mozilla
+- My Article on Firefox/Mozilla
 https://polarhive.ml/blog/firefox/
 
 - Lunduke's Video on Firefox/Mozilla
@@ -44,6 +47,7 @@ https://odysee.com/@Lunduke:e/mozilla-is-not-trustworthy:a
 
 ---
 ## Attribution
+
 - Track Title: Say Yeah 
 - Music by Topher Mohr and Alex Elena
 - Music Link: https://redirect.invidious.io/watch?v=-wiUIs9I9EM

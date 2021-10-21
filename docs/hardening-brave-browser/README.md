@@ -25,7 +25,7 @@ In this video we will harden Brave, add some extensions, configure some flags & 
 ### UPDATE: (October 2021)
 
 Brave has added [custom-filterlist-subscriptions](https://brave.com/privacy-updates-10/) into its inbuilt adblock extension with a recent update.
-So add your filterlists to Brave's [adblock](brave://adblock) to reach feature parity with uBlock Origin. No need to run 2 extensions now ;)
+So add your filter lists to Brave's [adblock](brave://adblock) to reach feature parity with uBlock Origin. No need to run 2 extensions now ;)
 
 ---
 ## Attribution

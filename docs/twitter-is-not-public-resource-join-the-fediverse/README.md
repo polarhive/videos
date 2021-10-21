@@ -1,9 +1,11 @@
 # Twitter is NOT public resource | Join the Fediverse - Federated, Decentralized Social Media
+
 Sometimes the answer isn't 'Going Big'. Rather than build new centralized platforms that will inevitably fail in proportion to their user base. Choose 'protocols' that can naturally scale and deliver the best for every person. Smaller tight knit communities 'on your own terms' that are user-first is the future of social media. Facebook's goal is not to 'connect the world' their true goals lie in their business model 'to sell your data to advertisers'. 
 
 #Fediverse tries to put social networking back into your hands, just like email and websites - it's based on the #ActivityPub protocol that's internationally accepted and works according to your needs and not to some advertiser's! Pick any server or host your own.
 
 Here are some great curated sites that I recommend!
+
 - https://joinmastodon.org/
 - https://joinpeertube.org/
 - https://pixelfed.org/
@@ -14,11 +16,13 @@ Here are some great curated sites that I recommend!
 Find me on fedi -> https://polarhive.ml/contact/
 
 # Watch on
+
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/twitter-is-not-public-resource-join-the-fediverse:8)
 - [tilvids.com](https://tilvids.com/videos/watch/95c5b274-dddd-4918-852e-247abfe42e02)
 
 ---
 ## Articles / Relevant Links
+
 - https://indianexpress.com/article/india/it-rules-twitter-india-govt-7345938/
 - https://www.theverge.com/2021/6/5/22520330/india-warns-twitter-rules-social-media
 - https://www.theverge.com/2021/5/24/22451271/police-india-raid-twitter-tweets-government-manipulated-media
@@ -43,6 +47,7 @@ Find me on fedi -> https://polarhive.ml/contact/
 
 ---
 ## Attribution
+
 - Music by [NaturesEye](https://pixabay.com/users/natureseye-18615106/) from Pixabay
 - Link: https://pixabay.com/music/introoutro-full-fat-cheeky-strings-intro-outro-3712/
 - License: https://pixabay.com/service/license/

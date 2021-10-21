@@ -1,4 +1,5 @@
 # No WhatsApp did NOT scrap its Privacy Policy | May 15th Deadline
+
 Honestly at this point Facebook is everywhere. If you think that you don't use Facebook you're probably wrong.
 They lie about their concern for your privacy. Facebook has to try to appeal to advertisers and users. Advertisers pay Facebook. Money speaks 🤑 - that doesn't go well.
 
@@ -10,16 +11,19 @@ If you use these apps, you indirectly have a Facebook account. Your data is stor
 #DeleteFacebook #DeleteWhatsApp #WhatsApp #Instagram #Facebook
 
 # Watch on
+
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/whatsapp-did-not-scrap-its-privacy-policy:a/)
 - [tilvids.com](https://tilvids.com/videos/watch/f5714c76-5bfe-477c-9490-058dd31f2dba/)
 
 # Alternatives
+
 - https://telegram.org/
 - https://element.io/
 - https://matrix.org/
 - https://session.org/
 
 ## Articles / Relevant Links
+
 - https://polarhive.ml/blog/messengers/
 - https://applescoop.org/story/whatsapp-breaks-app-store-guidelines-by-limiting-functionality-for-users-who-do-not-accept-new-privacy-policy
 - https://arstechnica.com/tech-policy/2021/01/whatsapp-users-must-share-their-data-with-facebook-or-stop-using-the-app/
@@ -29,6 +33,7 @@ If you use these apps, you indirectly have a Facebook account. Your data is stor
 
 ---
 ## Attribution
+
 - Track Title: Machina
 - Music by [Scott Buckley](https://www.scottbuckley.com.au/)
 - Music Link: https://www.scottbuckley.com.au/library/machina/

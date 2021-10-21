@@ -1,5 +1,5 @@
 # LibreWolf - Firefox Tweaked for Privacy | What we expect Firefox to be 
-LibreWolf is a fork of Firefox - focused on privacy, security and freedom. Features privacy oriented search engines like DuckDuckGo by default. It comes bundled out of the box with uBlock Origin and is configured to improve the defaults Mozilla Firefox ships with. It removes proprietary bits, Google SafeBrowsing, Google Geolocation, and disables harmful features like DRM. Some sites might break, due to hardening. 
+LibreWolf is a fork of Firefox - focused on privacy, security and freedom. Features privacy oriented search engines like DuckDuckGo by default. It comes bundled out of the box with uBlock Origin and is configured to improve the defaults Mozilla Firefox ships with. It removes proprietary bits, Google SafeBrowsing, Google geo location, and disables harmful features like DRM. Some sites might break, due to hardening. 
 
 # Watch on
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/librewolf-firefox-tweaked-for-privacy)
