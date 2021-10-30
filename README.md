@@ -10,13 +10,15 @@ Follow me on [Mastodon](https://polarhive.ml/mastodon) and [Pixelfed](https://po
 Patreon, Liberapay, Crypto, Donations & all the other ways you can [help](https://polarhive.ml/help)
 
 ---
+
 ## Where do you upload your videos?
 
-- [LBRY / Odysee](https://polarhive.ml/odysee) 
+- [LBRY / Odysee](https://polarhive.ml/odysee)
 - [PeerTube [tilvids.com] (ActivityPub)](https://polarhive.ml/peertube)
 - I also upload on YouTube but [don't want to bring people into centralized silos](https://polarhive.ml/blog/fedi-first)
 
 ---
+
 ## Why not write it in the description box itself?
 
 1. I want to bring people away from YouTube - into privacy friendly, decentralized alternatives like the fediverse, LBRY and eventually self host my own PeerTube. Both protocols allow for decentralized hosting.
@@ -25,6 +27,7 @@ Patreon, Liberapay, Crypto, Donations & all the other ways you can [help](https:
 4. Helps me learn Git!
 
 ---
+
 ## Attribution for generic files used in my videos?
 
 Intro/Outro [artwork, music & media](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/README.md)

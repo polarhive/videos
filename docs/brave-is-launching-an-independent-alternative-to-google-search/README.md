@@ -6,42 +6,44 @@ This would mean the 25 million monthly active Brave users would be introduced to
 
 If this is open source and you can disable ads with uBlock Origin then this feels like good competition for DuckDuckGo! There's a beta sign up page on their website and is due to launch this June (Summer - USA)
 
-# Watch on
+## Watch on
+
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/brave-is-launching-an-independent-alternative-to-google-search:9)
 - [tilvids.com](https://tilvids.com/videos/watch/6fb7f9e4-a3df-4164-8755-8962abbccf78)
 
 ---
+
 ## Articles / Relevant Links
 
-- Brave Search: https://brave.com/search
-- Blog Post : https://brave.com/brave-search/
-- https://cointelegraph.com/news/brave-acquires-search-engine-in-bid-to-offer-alternative-to-google-search
-- https://tailcat.com/
-- Goggles https://brave.com/wp-content/uploads/2021/03/goggles.pdf
-- DuckDuckGo sources : https://help.duckduckgo.com/results/sources/?redir=1
-- DuckDuckGo affiliate codes : https://help.duckduckgo.com/duckduckgo-help-pages/company/advertising-and-affiliates/ 
-
+- Brave Search: <https://brave.com/search>
+- Blog Post : <https://brave.com/brave-search/>
+- <https://cointelegraph.com/news/brave-acquires-search-engine-in-bid-to-offer-alternative-to-google-search>
+- <https://tailcat.com/>
+- Goggles <https://brave.com/wp-content/uploads/2021/03/goggles.pdf>
+- DuckDuckGo sources : <https://help.duckduckgo.com/results/sources/?redir=1>
+- DuckDuckGo affiliate codes : <https://help.duckduckgo.com/duckduckgo-help-pages/company/advertising-and-affiliates/>
 
 ### RELATED VIDEOS
 
-- https://polarhive.ml/videos/notes/foss-browsers-for-privacy-desktop/
-- https://polarhive.ml/videos/notes/hardening-brave-browser/
+- <https://polarhive.ml/videos/notes/foss-browsers-for-privacy-desktop/>
+- <https://polarhive.ml/videos/notes/hardening-brave-browser/>
 
 ---
+
 ## Attribution
 
-- Track Title: Say Yeah 
+- Track Title: Say Yeah
 - Music by Topher Mohr and Alex Elena
-- Music Link: https://redirect.invidious.io/watch?v=-wiUIs9I9EM
+- Music Link: <https://redirect.invidious.io/watch?v=-wiUIs9I9EM>
 
 - Blippy Trance by Kevin MacLeod
-- Link: https://incompetech.filmmusic.io/song/5759-blippy-trance
-- License: https://filmmusic.io/standard-license
+- Link: <https://incompetech.filmmusic.io/song/5759-blippy-trance>
+- License: <https://filmmusic.io/standard-license>
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/) 
+For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/)
 
 ---
-> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: https://polarhive.ml/help
+> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.ml/help>
