@@ -11,7 +11,7 @@ Most of the world runs on Free/Libre software these days, from cars, server, pho
 ## Watch on
 
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/what-is-free-libre-software-opensource-foss:4)
-- [tilvids.com](https://tilvids.com/videos/watch/)
+- [tilvids.com](https://tilvids.com/w/4TGXkCPHadwCFfSjujtCru)
 
 ---
 
@@ -19,8 +19,22 @@ Most of the world runs on Free/Libre software these days, from cars, server, pho
 
 - <https://polarhive.ml/blog/free-libre-software/>
 - <https://www.gnu.org/philosophy/free-sw.html>
+- <https://www.gnu.org/gnu/manifesto.en.html>
+
+- [Why I'm not uploading videos that often?](https://polarhive.ml/blog/big-break/)
 
 ## Attribution
+
+- Attribution for the [illustrations (slides)]((https://static.fsf.org/nosvn/RMS_Intro_to_FS_TEDx_Slideshow.odp)): Copyright 2014 Christian Noguera, Valentin Pasquier, [Richard Stallman](https://www.stallman.org/) Released under CC-BY 3.0
+
+- Stock Photos / Videos
+  - - <https://www.pexels.com/@padrinan>
+  - - <https://www.pexels.com/@cottonbro>
+  - - <https://www.pexels.com/@edwardeyer>
+  - - <https://www.pexels.com/@kaboompics>
+  - - <https://www.pexels.com/@kyle-lui-231290>
+  - - <https://www.pexels.com/@myfoodie>
+  - - <https://www.gnu.org/licenses/gpl-3.0.en.html>
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
