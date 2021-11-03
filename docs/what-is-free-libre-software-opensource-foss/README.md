@@ -28,13 +28,17 @@ Most of the world runs on Free/Libre software these days, from cars, server, pho
 - Attribution for the [illustrations (slides)]((https://static.fsf.org/nosvn/RMS_Intro_to_FS_TEDx_Slideshow.odp)): Copyright 2014 Christian Noguera, Valentin Pasquier, [Richard Stallman](https://www.stallman.org/) Released under CC-BY 3.0
 
 - Stock Photos / Videos
-  - - <https://www.pexels.com/@padrinan>
-  - - <https://www.pexels.com/@cottonbro>
-  - - <https://www.pexels.com/@edwardeyer>
-  - - <https://www.pexels.com/@kaboompics>
-  - - <https://www.pexels.com/@kyle-lui-231290>
-  - - <https://www.pexels.com/@myfoodie>
-  - - <https://www.gnu.org/licenses/gpl-3.0.en.html>
+  - <https://www.pexels.com/@padrinan>
+  - <https://www.pexels.com/@cottonbro>
+  - <https://www.pexels.com/@edwardeyer>
+  - <https://www.pexels.com/@kaboompics>
+  - <https://www.pexels.com/@kyle-lui-231290>
+  - <https://www.pexels.com/@myfoodie>
+  - <https://www.gnu.org/licenses/gpl-3.0.en.html>
+
+- [Poster](https://www.gnu.org/graphics/amihud-4-freedoms.html)
+Copyright © 2021 Jeison Yehuda Amihud
+These images are available under the CC-BY-SA 4.0 License
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
