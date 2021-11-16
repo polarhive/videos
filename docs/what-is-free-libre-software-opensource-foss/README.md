@@ -22,6 +22,7 @@ Most of the world runs on Free/Libre software these days, from cars, server, pho
 - [Why I'm not uploading videos that often?](https://polarhive.ml/blog/big-break/)
 - [GNU Project's definition of Free/Libre Software](https://www.gnu.org/philosophy/free-sw.html)
 - [Examples showcasing how Proprietary Software is often Malware](https://www.gnu.org/proprietary/)
+- [Stockholm syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome) - Oh I need DRM! I need Netflix, Steam, Spotify to work on Linux!
 - [Original GNU Manifesto](https://www.gnu.org/gnu/manifesto.en.html) - The call to make a free/libre OS to replace UNIX.
 - [Microsoft EULA](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm)
 - [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html) - GNU General Public License.
@@ -45,7 +46,7 @@ by [Aurélio A. Heckert](https://aurium.cjb.net/). Used under the [CC-BY-SA-2.0]
 
 - [Photo of Richard Stallman with a beer glass](https://commons.wikimedia.org/wiki/File:Galuel_RMS_-_free_as_free_speech,_not_as_free_beer.png) by [Galuel](https://commons.wikimedia.org/wiki/File:Galuel_RMS_-_free_as_free_speech,_not_as_free_beer.png). Used under [CC-BY-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0)
 
-- Stock Photos / Videos from [Pexels](https://www.pexels.com/license)
+- Stock Photos / Videos from [Pexel](https://www.pexels.com/license)
   - <https://www.pexels.com/@padrinan>
   - <https://www.pexels.com/@cottonbro>
   - <https://www.pexels.com/@edwardeyer>
