@@ -5,7 +5,7 @@ The Android client is censoring videos. Should WhatsApp have a say in what media
 
 Try it out on Android and preferably upload from my region (India) They might be A/B beta testing too. I tried it with my friends (Android/India) and they get the same errors.
 
-## Watch on
+## Watch on ▶️
 
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/WhatsApp-Facebook-is-Censoring-your-Photos-Videos-Status-and-DMs:6)
 - [tilvids.com](https://tilvids.com/videos/watch/97d61e87-57ac-4c5c-9e6d-708d0309f993)
@@ -48,6 +48,8 @@ Try it out on Android and preferably upload from my region (India) They might be
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/)
 

@@ -6,7 +6,7 @@ This would mean the 25 million monthly active Brave users would be introduced to
 
 If this is open source and you can disable ads with uBlock Origin then this feels like good competition for DuckDuckGo! There's a beta sign up page on their website and is due to launch this June (Summer - USA)
 
-## Watch on
+## Watch on ▶️
 
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/brave-is-launching-an-independent-alternative-to-google-search:9)
 - [tilvids.com](https://tilvids.com/videos/watch/6fb7f9e4-a3df-4164-8755-8962abbccf78)
@@ -42,6 +42,10 @@ If this is open source and you can disable ads with uBlock Origin then this feel
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/)
 

@@ -15,7 +15,7 @@ Here are some great curated sites that I recommend!
 
 Find me on fedi -> <https://polarhive.ml/contact/>
 
-## Watch on
+## Watch on ▶️
 
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/twitter-is-not-public-resource-join-the-fediverse:8)
 - [tilvids.com](https://tilvids.com/videos/watch/95c5b274-dddd-4918-852e-247abfe42e02)
@@ -75,6 +75,8 @@ Find me on fedi -> <https://polarhive.ml/contact/>
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/)
 
 ---

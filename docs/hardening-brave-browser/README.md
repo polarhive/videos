@@ -3,7 +3,7 @@
 Brave out of the box feels bloated and overwhelming. But has great privacy features turned on by default.
 In this video we will harden Brave, add some extensions, configure some flags & make it look minimal. It offers perfect compatibility with Google Chrome plus by blocking ads it pricks Google's control over the ad-infested web. Although Brave has their controversial crypto 'BAT' it is turned off by default. Brave offers the best compatibility to privacy ratio when compared to the Tor Browser / Hardened Firefox.
 
-## Watch on
+## Watch on ▶️
 
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/hardening-brave-browser:7)
 - [tilvids.com](https://tilvids.com/videos/watch/8a267137-06dd-426c-ac8c-50840709bce9)
@@ -37,6 +37,8 @@ So add your filter lists to Brave's [adblock](brave://adblock) to reach feature 
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic)
 

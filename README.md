@@ -34,3 +34,5 @@ Intro/Outro [artwork, music & media](https://codeberg.org/polarhive/videos/src/b
 
 ---
 This repo is hosted on [Codeberg](https://polarhive.ml/videos/notes) & also on GitHub as a READ-ONLY mirror.
+
+[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)

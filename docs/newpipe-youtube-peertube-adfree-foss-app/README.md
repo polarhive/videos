@@ -4,7 +4,7 @@ NewPipe is a powerful client for YouTube. Play videos ad free and reduce the tra
 
 Add it via their F-Droid repository or get it from their website.
 
-## Watch on
+## Watch on ▶️
 
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/newpipe-youtube-peertube-adfree-foss-app:5)
 - [tilvids.com](https://tilvids.com/videos/watch/6674d7da-33e5-4400-a764-1cfbf709a6ff)
@@ -34,6 +34,8 @@ Add it via their F-Droid repository or get it from their website.
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/)
 

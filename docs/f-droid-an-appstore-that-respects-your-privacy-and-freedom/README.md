@@ -4,7 +4,7 @@ F-Droid is an App Store for Android which showcases a catalog of Free and Open S
 
 It allows you to add custom repositories, share apps offline to nearby users locally and auto downloads updates over WiFi. Every app in the native F-Droid repository is audited by volunteers to check for anti-features, spyware and proprietary blobs. The distributed apps are 100% reproducible and enables the user to verify apps than blindly trusting.
 
-## Watch on
+## Watch on ▶️
 
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/f-droid-an-appstore-that-respects-your-privacy-and-freedom:2)
 - [tilvids.com](https://tilvids.com/videos/watch/323e48f2-c452-4323-abc6-e84785681707)
@@ -29,6 +29,8 @@ It allows you to add custom repositories, share apps offline to nearby users loc
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/)
 

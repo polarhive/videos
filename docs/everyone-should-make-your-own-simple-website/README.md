@@ -6,7 +6,7 @@ It doesn't matter if you're a 'coder' or 'programmer' Just follow the video, fil
 
 This video isn't meant to 'spoon-feed' you. You are in control of your website, you can learn at your own pace. You can think freely without worrying about BigTech algorithms or censorship of your ideas. Spark ✨ your curiosity & cook-up an indie website to take you back to the retro web! Comment below and I'll feature your websites.
 
-## Watch on
+## Watch on ▶️
 
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/everyone-should-make-your-own-simple-website:e)
 - [tilvids.com](https://tilvids.com/videos/watch/e9567603-9395-447d-8050-4f0be77d5b6c)
@@ -49,6 +49,8 @@ This video isn't meant to 'spoon-feed' you. You are in control of your website, 
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic)
 

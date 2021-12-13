@@ -2,7 +2,7 @@
 
 DRM - Digital Restrictions Management is a nasty way to get spied on and is a failure by design. Censoring Digital files is like trying to make water not wet. Spotify, Netflix, Amazon, Hulu, Steam, Apple, Google all bundle DRM and harm user freedom. Stop the injustice of DRM - slowly switch to ethical ways to consume media, try one of the alternatives listed below ->
 
-## Watch on
+## Watch on ▶️
 
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/eliminate-drm-defective-by-design:3)
 - [tilvids.com](https://tilvids.com/videos/watch/230e2d50-9ce7-488f-811f-5147f713bd9b/)
@@ -47,6 +47,8 @@ Mattl at English Wikipedia, CC BY-SA 3.0 <https://creativecommons.org/licenses/b
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic)
 

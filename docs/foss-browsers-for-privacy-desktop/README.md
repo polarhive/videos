@@ -2,7 +2,7 @@
 
 'Tor Browser' is the only real browser for 'Privacy'. It ships with strong anti-fingerprinting mitigations by default and masks your IP address. In addition to that - I showcase ungoogled-Chromium, Firefox & Brave. I also explain why you shouldn't use proprietary browsers like Edge, Safari & Google Chrome.
 
-## Watch on
+## Watch on ▶️
 
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/foss-browsers-for-privacy-desktop:0)
 - [tilvids.com](https://tilvids.com/videos/watch/38bb8f48-5e62-4df4-96a4-22cd57a9cac0)
@@ -56,6 +56,8 @@ Related Video: <https://polarhive.ml/videos/notes/hardening-brave-browser/>
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic)
 

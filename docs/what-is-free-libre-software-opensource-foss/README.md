@@ -8,7 +8,7 @@ Freedom denying software is called 'proprietary software'. It limits your user f
 
 Most of the world runs on Free/Libre software these days, from cars, server, phones, shops, many enterprises, activists, governments & normal people like you and me, exercise our freedoms, every single day. This video talks about the ideas behind free-software & their implications that help drive modern society.
 
-## Watch on
+## Watch on ▶️
 
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/what-is-free-libre-software-opensource-foss:4)
 - [tilvids.com](https://tilvids.com/w/4TGXkCPHadwCFfSjujtCru)
@@ -56,6 +56,8 @@ by [Aurélio A. Heckert](https://aurium.cjb.net/). Used under the [CC-BY-SA-2.0]
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/)
 
 ---

@@ -9,7 +9,7 @@ WhatsApp is a part of Facebook, Instagram also is.
 If you use these apps, you indirectly have a Facebook account. Your data is stored on their servers. Ever wondered why Facebook, Instagram and WhatsApp go offline together after server issues? Well - they all run on Facebook servers and Facebook is an advertising company.
 # DeleteFacebook #DeleteWhatsApp #WhatsApp #Instagram #Facebook
 
-## Watch on
+## Watch on ▶️
 
 - [LBRY / Odysee](https://odysee.com/@polarhive:e/whatsapp-did-not-scrap-its-privacy-policy:a/)
 - [tilvids.com](https://tilvids.com/videos/watch/f5714c76-5bfe-477c-9490-058dd31f2dba/)
@@ -42,6 +42,8 @@ If you use these apps, you indirectly have a Facebook account. Your data is stor
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic)
 
