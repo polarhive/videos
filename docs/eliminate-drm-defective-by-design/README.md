@@ -28,8 +28,8 @@ DRM - Digital Restrictions Management is a nasty way to get spied on and is a fa
 - <https://www.theguardian.com/technology/blog/2014/feb/05/digital-rights-management/>
 - <https://polarhive.ml/blog/apple/>
 - <https://en.wikipedia.org/wiki/Always-on_DRM>
-- <https://redirect.invidious.io/watch?v=Ez3f1HgOa1o>
-- <https://redirect.invidious.io/watch?v=FY7DtKMBxBw>
+- <https://piped.kavin.rocks/watch?v=Ez3f1HgOa1o>
+- <https://piped.kavin.rocks/watch?v=FY7DtKMBxBw>
 
 ---
 

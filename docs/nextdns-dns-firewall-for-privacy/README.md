@@ -28,11 +28,11 @@ Follow the instructions at <https://my.nextdns.io/>
 
 - Track Title: Say Yeah
 - Music by Topher Mohr and Alex Elena
-- Music Link: <https://redirect.invidious.io/watch?v=-wiUIs9I9EM>
+- Music Link: <https://piped.kavin.rocks/watch?v=-wiUIs9I9EM>
 
 - Track Title: Road Tripzzz
-- Music by [Ofshane](https://redirect.invidious.io/channel/UC34Wh4ysdP50H-ThbZFFfsA)
-- Music Link: <https://redirect.invidious.io/watch?v=BRglIP5jrGo>
+- Music by [Ofshane](https://piped.kavin.rocks/channel/UC34Wh4ysdP50H-ThbZFFfsA)
+- Music Link: <https://piped.kavin.rocks/watch?v=BRglIP5jrGo>
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)

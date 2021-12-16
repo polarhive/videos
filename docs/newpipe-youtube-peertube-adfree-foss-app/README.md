@@ -27,7 +27,7 @@ Add it via their F-Droid repository or get it from their website.
 
 - Track Title: Say Yeah
 - Music by Topher Mohr and Alex Elena
-- Music Link: <https://redirect.invidious.io/watch?v=-wiUIs9I9EM>
+- Music Link: <https://piped.kavin.rocks/watch?v=-wiUIs9I9EM>
 
 - "Pop, Low, A (H1).wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org
 - License: "Pop, Low, A (H1).wav" by InspectorJ (www.jshaw.co.uk) of [Freesound.org](https://freesound.org/people/InspectorJ/sounds/411639/) under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)

@@ -52,7 +52,7 @@ Related Video: <https://polarhive.ml/videos/notes/hardening-brave-browser/>
 
 - Track Title: Say Yeah
 - Music by Topher Mohr and Alex Elena
-- Music Link: <https://redirect.invidious.io/watch?v=-wiUIs9I9EM>
+- Music Link: <https://piped.kavin.rocks/watch?v=-wiUIs9I9EM>
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)

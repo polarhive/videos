@@ -34,7 +34,7 @@ If this is open source and you can disable ads with uBlock Origin then this feel
 
 - Track Title: Say Yeah
 - Music by Topher Mohr and Alex Elena
-- Music Link: <https://redirect.invidious.io/watch?v=-wiUIs9I9EM>
+- Music Link: <https://piped.kavin.rocks/watch?v=-wiUIs9I9EM>
 
 - Blippy Trance by Kevin MacLeod
 - Link: <https://incompetech.filmmusic.io/song/5759-blippy-trance>

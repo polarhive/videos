@@ -38,11 +38,11 @@ This video isn't meant to 'spoon-feed' you. You are in control of your website, 
 
 - Track Title: Say Yeah
 - Music by Topher Mohr and Alex Elena
-- Music Link: <https://redirect.invidious.io/watch?v=-wiUIs9I9EM>
+- Music Link: <https://piped.kavin.rocks/watch?v=-wiUIs9I9EM>
 
 - Track Title: Road Tripzzz
-- Music by [Ofshane](https://redirect.invidious.io/channel/UC34Wh4ysdP50H-ThbZFFfsA)
-- Music Link: <https://redirect.invidious.io/watch?v=BRglIP5jrGo>
+- Music by [Ofshane](https://piped.kavin.rocks/channel/UC34Wh4ysdP50H-ThbZFFfsA)
+- Music Link: <https://piped.kavin.rocks/watch?v=BRglIP5jrGo>
 
 - Upstream repo for simplewebsite
 - <https://github.com/LukasJoswiak/etch/blob/master/LICENSE>

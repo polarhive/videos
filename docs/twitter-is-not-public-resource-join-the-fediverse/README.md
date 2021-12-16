@@ -68,10 +68,10 @@ Find me on fedi -> <https://polarhive.ml/contact/>
 - License: <https://pixabay.com/service/license/>
 
 - Delhi Police Visits Twitter India Offices To Serve Notice Over 'Manipulated' Tag On Toolkit Tweets
-- Link: <https://redirect.invidious.io/watch?v=Brxc-kZ8YUI/>
+- Link: <https://piped.kavin.rocks/watch?v=Brxc-kZ8YUI/>
 
 - Twitter Sound Effect
-- Link: <https://redirect.invidious.io/watch?v=-nB59EVmizo/>
+- Link: <https://piped.kavin.rocks/watch?v=-nB59EVmizo/>
 
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
