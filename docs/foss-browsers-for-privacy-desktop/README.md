@@ -1,6 +1,6 @@
 # FOSS Browsers for Privacy
 
-'Tor Browser' is the only real browser for 'Privacy'. It ships with strong anti-fingerprinting mitigations by default and masks your IP address. In addition to that - I showcase ungoogled-Chromium, Firefox & Brave. I also explain why you shouldn't use proprietary browsers like Edge, Safari & Google Chrome.
+'Tor Browser' is the only real browser for 'Privacy'. It ships with strong anti-fingerprinting mitigations by default and masks your IP address. In addition to that - I showcase Ungoogled-Chromium, Firefox & Brave. I also explain why you shouldn't use proprietary browsers like Edge, Safari & Google Chrome.
 
 ## Watch on ▶️
 
@@ -11,40 +11,20 @@
 
 ## Articles / Relevant Links
 
-Related Video: <https://polarhive.ml/videos/notes/hardening-brave-browser/>
-
-- Brave Crypto Scandal
-<https://www.theverge.com/2020/6/8/21283769/brave-browser-affiliate-links-crypto-privacy-ceo-apology>
-
-- Firefox / Chromium Sandboxing
-<https://madaidans-insecurities.github.io/firefox-chromium.html>
-
-- Mozilla political
-<https://blog.mozilla.org/blog/2021/01/08/we-need-more-than-deplatforming/>
-
-- ungoogled-chromium GitHub
-<https://github.com/Eloston/ungoogled-chromium>
-
-- Google Chrome proprietary
-<https://www.google.com/intl/en/chrome/terms/>
-
-- Chrome vs Chromium
-<https://chromium.googlesource.com/chromium/src/+/master/docs/chromium_browser_vs_google_chrome.md>
-
-- Librewolf for GNU/Linux
-<https://gitlab.com/librewolf-community/browser/linux/-/releases>
-
-- Tor
-<https://www.torproject.org/download/>
-
-- Tor Project FAQ
-<https://support.torproject.org/faq/>
-
-- My Article on Firefox/Mozilla
-<https://polarhive.ml/blog/firefox/>
-
-- Lunduke's Video on Firefox/Mozilla
-<https://odysee.com/@Lunduke:e/mozilla-is-not-trustworthy:a>
+- Related Video: [Hardening Brave Browser | Stop Using Google Chrome](https://polarhive.ml/videos/notes/hardening-brave-browser/)
+- Related video: [LibreWolf - Firefox Tweaked for Privacy | What we expect Firefox to be](https://polarhive.ml/videos/notes/librewolf-firefox-tweaked-for-privacy)
+- [Brave Crypto Scandal](https://www.theverge.com/2020/6/8/21283769/brave-browser-affiliate-links-crypto-privacy-ceo-apology)
+- [Firefox / Chromium Sandboxing](https://madaidans-insecurities.github.io/firefox-chromium.html)
+- [Mozilla political](https://blog.mozilla.org/blog/2021/01/08/we-need-more-than-deplatforming/)
+- Harden Firefox manually ~ [vulpes](https://polarhive.ml/vulpes) > Minimal Firefox user.js tweaked for privacy
+- [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium)
+- [Google Chrome proprietary license](https://www.google.com/intl/en/chrome/terms/)
+- Diff b/w [Chrome & Chromium](https://chromium.googlesource.com/chromium/src/+/master/docs/chromium_browser_vs_google_chrome.md)
+- [Librewolf for GNU/Linux](https://gitlab.com/librewolf-community/browser/linux/-/releases)
+- [Tor Browser](https://www.torproject.org/download/)
+- [Tor Project FAQ](https://support.torproject.org/faq/)
+- [My Article on Firefox/Mozilla](https://polarhive.ml/blog/firefox/)
+- [Lunduke's Video on Firefox/Mozilla](https://odysee.com/@Lunduke:e/mozilla-is-not-trustworthy:a)
 
 ---
 

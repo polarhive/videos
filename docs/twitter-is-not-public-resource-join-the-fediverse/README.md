@@ -13,7 +13,7 @@ Here are some great curated sites that I recommend!
 - <https://join-lemmy.org/>
 - <https://funkwhale.audio/>
 
-Find me on fedi -> <https://polarhive.ml/contact/>
+Find me on the fediverse -> <https://polarhive.ml/contact/>
 
 ## Watch on ▶️
 

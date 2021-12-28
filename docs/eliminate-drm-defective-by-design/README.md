@@ -9,11 +9,11 @@ DRM - Digital Restrictions Management is a nasty way to get spied on and is a fa
 
 ## Alternatives
 
-- <https://bandcamp.com/fair_trade_music_policy>
-- <https://www.gog.com/>
-- <http://itch.io/>
-- <http://ytdl-org.github.io/youtube-dl/about.html>
-- <https://puri.sm/>
+- [Bandcamp](https://bandcamp.com/fair_trade_music_policy)
+- [GOG](https://www.gog.com/)
+- [itch.io](https://itch.io)
+- [Purism](https://puri.sm/)
+- [youtube-dl](https://ytdl-org.github.io/youtube-dl/about.html)
 - [LBRY/Odysee](https://polarhive.ml/odysee)
 
 ## Articles / Relevant Links

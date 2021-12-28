@@ -9,15 +9,16 @@ LibreWolf is a fork of Firefox - focused on privacy, security and freedom. Featu
 
 ### RELATED VIDEO
 
-- <https://polarhive.ml/videos/notes/foss-browsers-for-privacy-desktop>
+- [FOSS Browsers for Privacy](https://polarhive.ml/videos/notes/foss-browsers-for-privacy-desktop)
 
 ---
 
 ## Articles / Relevant Links
 
-- <https://librewolf-community.gitlab.io/>
-- <https://librewolf-community.gitlab.io/docs/>
-- <https://gitlab.com/librewolf-community/settings/-/blob/master/librewolf.cfg>
+- [LibreWolf](https://librewolf-community.gitlab.io/)
+- [LibreWolf Docs](https://librewolf-community.gitlab.io/docs/)
+- [LibreWolf userjs](https://gitlab.com/librewolf-community/settings/-/blob/master/librewolf.cfg)
+- Harden Firefox manually ~ [vulpes](https://polarhive.ml/vulpes) > Minimal Firefox user.js tweaked for privacy
 
 ### If web audio / video calls don't work due to hardening
 
@@ -31,12 +32,13 @@ LibreWolf is a fork of Firefox - focused on privacy, security and freedom. Featu
 - <https://addons.mozilla.org/en-US/firefox/addon/localcdn-fork-of-decentraleyes/>
 - <https://addons.mozilla.org/en-US/firefox/addon/clearurls/>
 
-#### about:config tweaks
+#### TWEAKS
 
-- Set `network.http.referer.defaultPolicy` to 0
-- Set `dom.security.https_only_mode.upgrade_local` to true
-- Set `general.smoothScroll.msdPhysics.enabled` to true
-- Set `ui.systemUsesDarkTheme` to 1
+- Head to ``about:config``
+- Set ``network.http.referer.defaultPolicy`` to ``0``
+- Set ``dom.security.https_only_mode.upgrade_local`` to ``true``
+- Set ``general.smoothScroll.msdPhysics.enabled`` to ``true``
+- Set ``ui.systemUsesDarkTheme`` to ``1``
 
 #### TESTING WEBSITES
 

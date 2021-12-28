@@ -12,8 +12,8 @@ In this video we will harden Brave, add some extensions, configure some flags & 
 
 ## Articles / Relevant Links
 
-- Get Brave: <https://brave.com>
-- Previous Video: <https://polarhive.ml/videos/notes/foss-browsers-for-privacy-desktop/>
+- [Get Brave](https://brave.com)
+- Previous Video - [FOSS Browsers for Privacy](https://polarhive.ml/videos/notes/foss-browsers-for-privacy-desktop)
 
 ## BRAVE://FLAGS
 

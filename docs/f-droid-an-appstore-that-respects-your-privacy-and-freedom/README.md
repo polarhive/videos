@@ -13,11 +13,11 @@ It allows you to add custom repositories, share apps offline to nearby users loc
 
 ## Articles / Relevant Links
 
-- <https://f-droid.org/>
+- [F-Droid](https://f-droid.org/)
+- [NewPipe F-Droid repo](https://newpipe.net/FAQ/tutorials/install-add-fdroid-repo/)
 - <https://www.theverge.com/2018/5/31/17412396/telegram-apple-app-store-app-updates-russia/>
 - <https://nitter.net/element_hq/status/1355290296947499013/>
 - <https://www.theverge.com/2020/9/28/21472139/google-android-12-app-store-installation-payment-fees/>
-- <https://newpipe.net/FAQ/tutorials/install-add-fdroid-repo/>
 
 ---
 

@@ -1,10 +1,8 @@
 # Everyone Should Make Your Own Simple Website | Setup a free static site in 5 minutes
 
-A simple HTML site, free of cost 🌐. No WiX, Squarespace, or any of the 'consumerised' website ecosystems which dilute the freedom & fun the web was built for!
+A simple HTML site, free of cost 🌐. No WiX, Squarespace, or any of the 'consumerized' website ecosystems which dilute the freedom & fun the web was built for!
 
-It doesn't matter if you're a 'coder' or 'programmer' Just follow the video, fill in your website's /about page with a bio. Add links to your social accounts in a neat /contact page, experiment 🧪 with the colors and showcase your site to your friends.
-
-This video isn't meant to 'spoon-feed' you. You are in control of your website, you can learn at your own pace. You can think freely without worrying about BigTech algorithms or censorship of your ideas. Spark ✨ your curiosity & cook-up an indie website to take you back to the retro web! Comment below and I'll feature your websites.
+It doesn't matter if you're a 'coder' or 'programmer' - follow the video for reference, fill in your website's /about page with a bio. Add links to your social accounts in a neat /contact page, experiment 🧪 with the colors & showcase your site to your friends. You are in control of your website, you can learn at your own pace. You can think freely without worrying about BigTech algorithms or censorship of your ideas or the design limitations of your drag & drop website building tool. This video isn't meant to 'spoon-feed' you - spark ✨ your curiosity & cook-up an indie website to take you back to the retro web! Comment below and I'll feature your website!
 
 ## Watch on ▶️
 
@@ -17,19 +15,19 @@ This video isn't meant to 'spoon-feed' you. You are in control of your website, 
 
 ## Articles / Relevant Links
 
-- <https://codeberg.org/polarhive/simplewebsite/>
-- <https://indieweb.org/why>
-- <https://neocities.org/>
-- <https://tildeverse.org/>
-- <https://developer.mozilla.org/en-US/docs/Learn>
-- <https://github.com/LukasJoswiak/etch>
-- <https://gohugo.io/>
-- <https://polarhive.ml/>
+- [IndieWeb](https://indieweb.org/why)
+- [Neocities](https://neocities.org/)
+- [Tildeverse](https://tildeverse.org)
+- [Mozilla Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
+- [hugo static site generator](https://gohugo.io/)
+- [my website](https://polarhive.ml/)
+- [site template](https://github.com/LukasJoswiak/etch)
 
 ## Featured websites
 
 - <https://ozaki-yutaka.codeberg.page/>
 - <https://mogli.codeberg.page/>
+- <https://tanmay.codeberg.page>
 - < your website here 👀 >
 
 ---
