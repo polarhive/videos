@@ -15,6 +15,7 @@ DRM - Digital Restrictions Management is a nasty way to get spied on and is a fa
 - [Purism](https://puri.sm/)
 - [youtube-dl](https://ytdl-org.github.io/youtube-dl/about.html)
 - [LBRY/Odysee](https://polarhive.ml/odysee)
+- [My Music Setup](https://polarhive.ml/blog/foss-music-setup/)
 
 ## Articles / Relevant Links
 
