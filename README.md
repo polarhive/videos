@@ -1,6 +1,6 @@
-# A meta-data repository for videos published on: YouTube, PeerTube & LBRY
+# A metadata repository for videos published on: YouTube, PeerTube & LBRY
 
-A geeky student — interested in computers, minimalism, collaboration & the web. I like talking
+Hi! I'm Nathan. A geeky student — interested in computers, minimalism, collaboration & the web. I like talking
 about tech, privacy & [libre-software](https://polarhive.ml/blog/free-libre-software/) on this channel.
 
 ---
@@ -15,7 +15,7 @@ about tech, privacy & [libre-software](https://polarhive.ml/blog/free-libre-soft
 1. I syndicate content over multiple platforms; it's easier to manage video metadata and footnotes in one place.
 2. YouTube tracks outbound-links in the description box.
 3. Spam bots, low-quality content and an algorithmic home-feed.
-4. Forced sign-up for a Google account --- to comment or like videos. PeerTube uses the ActivityPub protocol. Interact via Mastodon, Lemmy or (any app on the fediverse)
+4. Forced sign-up for a Google account — to comment or like videos. PeerTube uses the ActivityPub protocol. Comment using Mastodon, Lemmy or (any app on the fediverse)
 
 ### credits
 
