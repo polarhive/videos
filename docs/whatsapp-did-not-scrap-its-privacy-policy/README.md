@@ -23,7 +23,7 @@ If you use these apps, you indirectly have a Facebook account. Your data is stor
 
 ## Articles / Relevant Links
 
-- <https://polarhive.ml/blog/messengers/>
+- <https://polarhive.net/blog/messengers/>
 - <https://applescoop.org/story/whatsapp-breaks-app-store-guidelines-by-limiting-functionality-for-users-who-do-not-accept-new-privacy-policy>
 - <https://arstechnica.com/tech-policy/2021/01/whatsapp-users-must-share-their-data-with-facebook-or-stop-using-the-app/>
 - <https://www.ndtv.com/india-news/whatsapp-scraps-may-15-deadline-for-accepting-new-controversial-privacy-policy-report-2437246>
@@ -43,9 +43,9 @@ If you use these apps, you indirectly have a Facebook account. Your data is stor
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![license: CC BY-SA 4.0](https://polarhive.net/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic)
 
 ---
-> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.ml/help>
+> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.net/help>

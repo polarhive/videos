@@ -9,7 +9,7 @@ LibreWolf is a fork of Firefox - focused on privacy, security and freedom. Featu
 
 ### RELATED VIDEO
 
-- [FOSS Browsers for Privacy](https://polarhive.ml/videos/notes/foss-browsers-for-privacy-desktop)
+- [FOSS Browsers for Privacy](https://polarhive.net/videos/notes/foss-browsers-for-privacy-desktop)
 
 ---
 
@@ -18,7 +18,7 @@ LibreWolf is a fork of Firefox - focused on privacy, security and freedom. Featu
 - [LibreWolf](https://librewolf-community.gitlab.io/)
 - [LibreWolf Docs](https://librewolf-community.gitlab.io/docs/)
 - [LibreWolf userjs](https://gitlab.com/librewolf-community/settings/-/blob/master/librewolf.cfg)
-- Harden Firefox manually ~ [vulpes](https://polarhive.ml/vulpes) > Minimal Firefox user.js tweaked for privacy
+- Harden Firefox manually ~ [vulpes](https://polarhive.net/vulpes) > Minimal Firefox user.js tweaked for privacy
 
 ### If web audio / video calls don't work due to hardening
 
@@ -59,8 +59,8 @@ LibreWolf is a fork of Firefox - focused on privacy, security and freedom. Featu
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![license: CC BY-SA 4.0](https://polarhive.net/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic)
 
 ---
-> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.ml/help>
+> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.net/help>

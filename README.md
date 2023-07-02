@@ -1,14 +1,14 @@
 # A metadata repository for videos published on: YouTube, PeerTube & LBRY
 
 Hi! I'm Nathan. A geeky student — interested in computers, minimalism, collaboration & the web. I like talking
-about tech, privacy & [libre-software](https://polarhive.ml/blog/free-libre-software/) on this channel.
+about tech, privacy & [libre-software](https://polarhive.net/blog/free-libre-software/) on this channel.
 
 ---
 ## Watch my videos
 
-- [Odysee](https://polarhive.ml/odysee)
-- [PeerTube](https://polarhive.ml/peertube)
-- [YouTube](https://youtube.com/polarhive). I personally don't use or [endorse](https://polarhive.ml/blog/fedi-first) the use of YouTube (Google).
+- [Odysee](https://polarhive.net/odysee)
+- [PeerTube](https://polarhive.net/peertube)
+- [YouTube](https://youtube.com/polarhive). I personally don't use or [endorse](https://polarhive.net/blog/fedi-first) the use of YouTube (Google).
 
 ### YouTube woes
 
@@ -20,9 +20,9 @@ about tech, privacy & [libre-software](https://polarhive.ml/blog/free-libre-soft
 ### credits
 
 - Intro/Outro [artwork, music & media](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/README.md)
-- Ways you can [help](https://polarhive.ml/help) me grow this channel
+- Ways you can [help](https://polarhive.net/help) me grow this channel
 
 ---
-This repo is hosted on [Codeberg](https://polarhive.ml/videos/notes) & mirrored to [GitHub](https://polarhive.ml/github) for traffic.
+This repo is hosted on [Codeberg](https://polarhive.net/videos/notes) & mirrored to [GitHub](https://polarhive.net/github) for traffic.
 
-[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![license: CC BY-SA 4.0](https://polarhive.net/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)

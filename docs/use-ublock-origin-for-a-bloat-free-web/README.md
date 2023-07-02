@@ -1,6 +1,6 @@
 # Use uBlock Origin - for a bloat free web | FOSS adblocker
 
-[uBlock Origin](https://ublockorigin.com/) - is a [FOSS](https://polarhive.ml/blog/free-libre-software) content / adblocker to navigate the modern bloated web. A web based on 'advertising' is is not sustainable. 
+[uBlock Origin](https://ublockorigin.com/) - is a [FOSS](https://polarhive.net/blog/free-libre-software) content / adblocker to navigate the modern bloated web. A web based on 'advertising' is is not sustainable. 
 
 Respect your audience, optimize your resources. You shouldn't need to download 30MB of JavaScript just to load a text article. Block ads, trackers, distractions, obscenities when surfing the web. Globally block domains from Facebook & Google, inspect what 3rd party requests websites are making.
 
@@ -34,8 +34,8 @@ www.youtube.com##.ytp-show-tiles.ytp-endscreen-paginate.videowall-endscreen.ytp-
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![license: CC BY-SA 4.0](https://polarhive.net/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/)
 
 ---
-> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.ml/help/>
+> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.net/help/>

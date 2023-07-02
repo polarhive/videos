@@ -14,8 +14,8 @@ DRM - Digital Restrictions Management is a nasty way to get spied on and is a fa
 - [itch.io](https://itch.io)
 - [Purism](https://puri.sm/)
 - [youtube-dl](https://ytdl-org.github.io/youtube-dl/about.html)
-- [LBRY/Odysee](https://polarhive.ml/odysee)
-- [My Music Setup](https://polarhive.ml/blog/foss-music-setup/)
+- [LBRY/Odysee](https://polarhive.net/odysee)
+- [My Music Setup](https://polarhive.net/blog/foss-music-setup/)
 
 ## Articles / Relevant Links
 
@@ -27,7 +27,7 @@ DRM - Digital Restrictions Management is a nasty way to get spied on and is a fa
 - <https://www.ifixit.com/News/9236/day-against-drm/>
 - <https://www.wired.com/2012/10/amazons-remote-wipe-of-customers-kindle-highlights-perils-of-drm/>
 - <https://www.theguardian.com/technology/blog/2014/feb/05/digital-rights-management/>
-- <https://polarhive.ml/blog/apple/>
+- <https://polarhive.net/blog/apple/>
 - <https://en.wikipedia.org/wiki/Always-on_DRM>
 - <https://piped.kavin.rocks/watch?v=Ez3f1HgOa1o>
 - <https://piped.kavin.rocks/watch?v=FY7DtKMBxBw>
@@ -49,9 +49,9 @@ Mattl at English Wikipedia, CC BY-SA 3.0 <https://creativecommons.org/licenses/b
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![license: CC BY-SA 4.0](https://polarhive.net/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic)
 
 ---
-> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.ml/help>
+> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.net/help>

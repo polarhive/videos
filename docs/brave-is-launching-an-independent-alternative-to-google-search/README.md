@@ -23,8 +23,8 @@ If this is open source and you can disable ads with uBlock Origin then this feel
 
 ### RELATED VIDEOS
 
-- <https://polarhive.ml/videos/notes/foss-browsers-for-privacy-desktop/>
-- <https://polarhive.ml/videos/notes/hardening-brave-browser/>
+- <https://polarhive.net/videos/notes/foss-browsers-for-privacy-desktop/>
+- <https://polarhive.net/videos/notes/hardening-brave-browser/>
 
 ---
 
@@ -42,9 +42,9 @@ If this is open source and you can disable ads with uBlock Origin then this feel
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![license: CC BY-SA 4.0](https://polarhive.net/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/)
 
 ---
-> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.ml/help>
+> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.net/help>

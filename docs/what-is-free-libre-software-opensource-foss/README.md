@@ -17,9 +17,9 @@ Most of the world runs on Free/Libre software these days, from cars, server, pho
 
 ## Articles / Relevant Links
 
-- [My blog post on Free/Libre Software](https://polarhive.ml/blog/free-libre-software/)
-- [How I do my computing on GNU/Linux](https://polarhive.ml/blog/how-i-do-my-computing/) - Using free software of course
-- [Why I'm not uploading videos that often?](https://polarhive.ml/blog/big-break/)
+- [My blog post on Free/Libre Software](https://polarhive.net/blog/free-libre-software/)
+- [How I do my computing on GNU/Linux](https://polarhive.net/blog/how-i-do-my-computing/) - Using free software of course
+- [Why I'm not uploading videos that often?](https://polarhive.net/blog/big-break/)
 - [GNU Project's definition of Free/Libre Software](https://www.gnu.org/philosophy/free-sw.html)
 - [Examples showcasing how Proprietary Software is often Malware](https://www.gnu.org/proprietary/)
 - [Stockholm syndrome](https://en.wikipedia.org/wiki/Stockholm_syndrome) - Oh I need DRM! I need Netflix, Steam, Spotify to work on Linux!
@@ -57,8 +57,8 @@ by [Aurélio A. Heckert](https://aurium.cjb.net/). Used under the [CC-BY-SA-2.0]
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![license: CC BY-SA 4.0](https://polarhive.net/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/)
 
 ---
-> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.ml/help/>
+> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.net/help/>

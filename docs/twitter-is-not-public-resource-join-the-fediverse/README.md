@@ -13,7 +13,7 @@ Here are some great curated sites that I recommend!
 - <https://join-lemmy.org/>
 - <https://funkwhale.audio/>
 
-Find me on the fediverse -> <https://polarhive.ml/contact/>
+Find me on the fediverse -> <https://polarhive.net/contact/>
 
 ## Watch on ▶️
 
@@ -38,7 +38,7 @@ Find me on the fediverse -> <https://polarhive.ml/contact/>
 - <https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/>
 - <https://blog.joinmastodon.org/2017/03/learning-from-twitters-mistakes/>
 - <https://blog.joinmastodon.org/2017/03/learning-from-twitters-mistakes/>
-- <https://polarhive.ml/blog/fedi-first/>
+- <https://polarhive.net/blog/fedi-first/>
 - <https://www.theverge.com/2021/7/8/22568433/twitter-india-legal-immunity-user-posts-regulations>
 
 > Videos
@@ -76,8 +76,8 @@ Find me on the fediverse -> <https://polarhive.ml/contact/>
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![license: CC BY-SA 4.0](https://polarhive.net/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic/)
 
 ---
-> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.ml/help/>
+> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.net/help/>

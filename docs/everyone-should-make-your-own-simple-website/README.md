@@ -20,7 +20,7 @@ It doesn't matter if you're a 'coder' or 'programmer' - follow the video for ref
 - [Tildeverse](https://tildeverse.org)
 - [Mozilla Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
 - [hugo static site generator](https://gohugo.io/)
-- [my website](https://polarhive.ml/)
+- [my website](https://polarhive.net/)
 - [site template](https://github.com/LukasJoswiak/etch)
 
 ## Featured websites
@@ -48,9 +48,9 @@ It doesn't matter if you're a 'coder' or 'programmer' - follow the video for ref
 ---
 This video by Nathan Matthew Paul is licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[![license: CC BY-SA 4.0](https://polarhive.ml/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![license: CC BY-SA 4.0](https://polarhive.net/assets/badges/cc-by-sa-4.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 For Generic Intro Music and end credit logos attribution visit: [/docs/generic/](https://codeberg.org/polarhive/videos/src/branch/main/docs/generic)
 
 ---
-> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.ml/help>
+> Patreon, Liberapay, Crypto, Donate and all the other ways you can contribute like video suggestions: <https://polarhive.net/help>
